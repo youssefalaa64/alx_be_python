@@ -1,6 +1,6 @@
-num1 = input ("Eenter the first number: " )
-num2 = input ("Enter the second number: " )
-operation = input ("Choose the operation (+, -, *, /): " )
+num1 = input ( "Eenter the first number: " )
+num2 = input ( "Enter the second number: " )
+operation = input ( "Choose the operation (+, -, *, /): " )
 match operation :
     case "+" :
         result = num1 + num2
